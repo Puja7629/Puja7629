@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Puja Kumari</h1>
-<h3 align="center">A passionate tech enthusiastic who is skilled in Data Science, Full Stack Development</h3>
+<h3 align="center">A passionate tech enthusiastic who is skilled in Data Science, Full Stack Development from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puja7629" alt="puja7629" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on medium [https://medium.com/@puja.hit01](https://medium.com/@puja.hit01)
 
-- 📫 How to reach me **puja.hit01@gmail.com**
+- 📫 You can reach me at **puja.hit01@gmail.com**
 
 - ⚡ Fun fact **When I am not doing these things, I love to take photos, travel and explore new places.**
 
