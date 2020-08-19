@@ -22,6 +22,5 @@
 <a href="https://fb.com/puja kumari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="puja kumari" height="30" width="30" /></a>
 <a href="https://instagram.com/pujasingh20_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pujasingh20_" height="30" width="30" /></a>
 <a href="https://dribbble.com/puja kumari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="puja kumari" height="30" width="30" /></a>
-<a href="https://www.behance.net/puja kumari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="puja kumari" height="30" width="30" /></a>
 <a href="https://medium.com/@puja.hit01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@puja.hit01" height="30" width="30" /></a>
 </p>
