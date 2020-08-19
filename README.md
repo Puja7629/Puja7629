@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at Github [https://github.com/Puja7629](https://github.com/Puja7629)
 
-- 📝 I regulary write articles on medium [https://medium.com/@puja.hit01](https://medium.com/@puja.hit01)
-
 - 📫 You can reach me at **puja.hit01@gmail.com**
 
 - ⚡ Fun fact **When I am not doing these things, I love to take photos, travel and explore new places.**
