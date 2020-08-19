@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puja7629" alt="puja7629" /> </p>
 
-- 🔭 I’m developing my skills in Data science and Full Stack Development and currenly working on a Project [GHCI Codeathon 2020](https://github.com/Puja7629/GHCI-20_CODEATHON)
+- 🔭 I’m developing my skills in Data science and Full Stack Development beside all this I'm currenly working on a Project [GHCI Codeathon 2020](https://github.com/Puja7629/GHCI-20_CODEATHON)
 
 - 👨‍💻 All of my projects are available at Github [https://github.com/Puja7629](https://github.com/Puja7629)
 
