@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Puja Kumari</h1>
-<h3 align="center">A passionate tech enthusiastic from India, who is skilled in Data Science, Full Stack Development.</h3>
+<h3 align="center">A passionate tech enthusiastic from India, who is skilled in Data Science and Full Stack Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puja7629" alt="puja7629" /> </p>
 
