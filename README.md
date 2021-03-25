@@ -1,4 +1,4 @@
-<h1 align="center">Hello There!👋 I'm Puja</h1>
+<h1 align="center">Hello There!👋 I'm Puja Kumari</h1>
 <h3 align="center">A passionate tech enthusiastic from India, who is skilled in Data Science and Full Stack Development and currently exploring Android Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puja7629" alt="puja7629" /> </p>
