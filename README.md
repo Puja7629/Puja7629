@@ -14,9 +14,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puja7629&show_icons=true" alt="puja7629" /></p>
 
 <p align="center">
-<a href="https://twitter.com/marvel_puja12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marvel_puja12" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/puja7629" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="puja7629" height="30" width="30" /> </a>
-<a href="https://www.facebook.com/profile.php?id=100013139197778" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="puja kumari" height="30" width="30" /></a>
-<a href="https://instagram.com/dynamic.rainbow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pujasingh20_" height="30" width="30" /></a>
+<a href="https://twitter.com/marja12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marvel_puja12" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/p29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="p9" height="30" width="30" /> </a>
+<a href="https://www.facebook.com/profile.php?id=197778" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="puja kumari" height="30" width="30" /></a>
+<a href="https://instagram.com/ow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="puingh20_" height="30" width="30" /></a>
 
 </p>
