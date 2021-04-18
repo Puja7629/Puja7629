@@ -20,3 +20,6 @@
 <a href="https://instagram.com/ow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="puingh20_" height="30" width="30" /></a>
 
 </p>
+
+**Let's connect on Twitter for KT ([@Marvel_Puja12](https://twitter.com/Marvel_Puja12))!** :heart: 💬
+
