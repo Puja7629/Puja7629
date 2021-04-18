@@ -21,5 +21,3 @@
 
 </p>
 
-**Let's connect on Twitter for KT ([@Marvel_Puja12](https://twitter.com/Marvel_Puja12))!** :heart: 💬
-
