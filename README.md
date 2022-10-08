@@ -1,10 +1,9 @@
 <h1 align="center">Hello There!👋 I'm Puja Kumari</h1>
-<h3 align="center">A passionate tech enthusiastic from India, who is skilled in Data Science and Full Stack Development and currently exploring Android Development</h3>
+<h3 align="center">A passionate tech enthusiastic from India, who has tried her hands on approach in various tech stack like Data Science, Full Stack Development and Android Development using flutter. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puja7629" alt="puja7629" /> </p>
 
-- 🔭 I’m developing my skills in Data science and Full Stack Development. Beside all this, Recently I have  worked on a Project [GHCI Codeathon 2020](https://github.com/Puja7629/GHCI-20_CODEATHON)
-
+- 🔭 I’m enhancing my skills more in Data science and Full Stack Development. 
 - 👨‍💻 All of my projects are available at Github [https://github.com/Puja7629](https://github.com/Puja7629)
 
 - ⚡ Fun fact When I am not doing these things,I would love to take photos, travel and explore new places.
